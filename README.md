@@ -19,8 +19,8 @@ We assume that python venv have been installed. Then you can type
 
 To verify if it is allright, type:
 
-```cd <name_your_project>
-   python manage.py runserver```
+```cd <name_your_project>```
+```python manage.py runserver```
 
 
 And go to the link shown in the terminal...
